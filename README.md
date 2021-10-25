@@ -1,0 +1,1 @@
+Simple dockerfile templates for building and testing your Python package locally. 
